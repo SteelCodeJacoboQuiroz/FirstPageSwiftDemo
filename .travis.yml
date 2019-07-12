@@ -1,9 +1,3 @@
 language: objective-c
-
 bundler_args: --without development debug# Gemfile
-group :debug do
-  gem 'debugger'
-  gem 'debugger-linecache'
-  gem 'rblineprof'
-end
 
