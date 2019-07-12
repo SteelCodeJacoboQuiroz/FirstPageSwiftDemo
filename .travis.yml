@@ -1,2 +1,3 @@
 language: objective-c
-gem install travis
+install:
+- bundle install
