@@ -12,7 +12,7 @@
 		21A5C43C22D6B3BA004EF7FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21A5C43A22D6B3BA004EF7FB /* Main.storyboard */; };
 		21A5C43E22D6B3BB004EF7FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21A5C43D22D6B3BB004EF7FB /* Assets.xcassets */; };
 		21A5C44122D6B3BB004EF7FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21A5C43F22D6B3BB004EF7FB /* LaunchScreen.storyboard */; };
-		21BB708922D9329D006E3A82 /* certs in Resources */ = {isa = PBXBuildFile; fileRef = 21BB708822D9329D006E3A82 /* certs */; };
+		21BB708B22D93412006E3A82 /* scripts in Resources */ = {isa = PBXBuildFile; fileRef = 21BB708A22D93412006E3A82 /* scripts */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		21A5C43D22D6B3BB004EF7FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21A5C44022D6B3BB004EF7FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21A5C44222D6B3BB004EF7FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		21BB708822D9329D006E3A82 /* certs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = certs; path = scripts/certs; sourceTree = "<group>"; };
+		21BB708A22D93412006E3A82 /* scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = scripts; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +40,7 @@
 		21A5C42A22D6B3BA004EF7FB = {
 			isa = PBXGroup;
 			children = (
-				21BB708822D9329D006E3A82 /* certs */,
+				21BB708A22D93412006E3A82 /* scripts */,
 				21A5C43522D6B3BA004EF7FB /* FirstPageSwift */,
 				21A5C43422D6B3BA004EF7FB /* Products */,
 			);
@@ -127,8 +127,8 @@
 			files = (
 				21A5C44122D6B3BB004EF7FB /* LaunchScreen.storyboard in Resources */,
 				21A5C43E22D6B3BB004EF7FB /* Assets.xcassets in Resources */,
-				21BB708922D9329D006E3A82 /* certs in Resources */,
 				21A5C43C22D6B3BA004EF7FB /* Main.storyboard in Resources */,
+				21BB708B22D93412006E3A82 /* scripts in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
