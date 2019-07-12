@@ -1,7 +1,0 @@
-language: swift
-osx_image: xcode10
-xcode_project: FirstPageSwift.xcodeproj
-before_install:
-  - echo "BEFORE INSTALL START"
-  - gem install bundler
-  - echo "BEFORE INSTALL END"
