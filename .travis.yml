@@ -1,3 +1,4 @@
 language: objective-c
-bundler_args: --without development debug# Gemfile
+osx_image: xcode10
+
 
