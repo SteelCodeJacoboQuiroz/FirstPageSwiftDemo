@@ -1,4 +1,5 @@
 language: objective-c
 osx_image: xcode10
-
+gem 'travis', '~> 1.8.11.travis.1010.9'
+gem install travis --pre
 
