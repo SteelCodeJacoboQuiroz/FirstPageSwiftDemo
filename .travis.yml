@@ -2,11 +2,12 @@ language: objective-c
 osx_image: xcode7.3  
 xcode_project: FirstPageSwift.xcodeproj 
 xcode_sdk: iphonesimulator10
-install: gem install rails
 before_install:
     - gem update --system
     - gem install bundler -v 1.17.3
     - gem install travis
     - gem update ruby
+    - gem install rails
+    
 
 
