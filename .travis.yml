@@ -1,7 +1,6 @@
 language: objective-c  
 osx_image: xcode10  
 xcode_project: FirstPageSwift.xcodeproj 
-xcode_scheme: FirstPageSwift  
 xcode_sdk: iphonesimulator
 
 
