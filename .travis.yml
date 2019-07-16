@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode10
-bundle install
+bundle: install
 
 
