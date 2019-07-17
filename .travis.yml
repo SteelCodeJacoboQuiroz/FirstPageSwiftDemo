@@ -1,4 +1,5 @@
-language: objective-c  
+language: swift  
 osx_image: xcode10  
 xcode_workspace: project.xcworkspace
+xcode_scheme: FirstPageSwift
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
